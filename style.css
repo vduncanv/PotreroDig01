@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#amarillo {
+    color: rgb(255, 242, 2); 
+}
+.carousel-inner { 
+    background-color: rgba(41, 23, 1, 0.75) ;
+}
+#blanco {
+    color: white;
+    border-color: white;
+}
+#textocarousel {
+    text-align: right;
+}
+#título1 {
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3rem;
+}
+#comprartickets {
+    background-color: gold ;
+}
+#transparencia {
+    background-color: rgba(31, 30, 29, 0.75);
+}
+#musicas {
+    background-color: rgb(56, 56, 57);
+
+padding-left: 0%;
+padding-right: 0%;
+padding-bottom: 2rem;
+margin-left: 0%;
+margin-right: 0%;
+height: 100%;
+box-sizing: border-box;
+
+}
+
+
+.text-center {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#título {
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 4rem;
+}
+
+#cards {
+padding-left: 0%;
+padding-right: 0%;
+padding-bottom: 2rem;
+margin-bottom: 3rem;
+margin-right: 4rem;
+margin-left: 4rem;
+
+}
+.card-title {
+    font-family: 'Fugaz One', cursive;
+    font-size: 1.4rem;
+    padding-top: 0.7rem;
+
+}
+.button {
+    width: 2rem;
+
+}
+.row justify-content-start {
+    padding: 0%;
+    margin-top: 8rem;
+}
+
+
+
+.form {
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-top: 2rem;
+}
+#enviar {
+    background-color: gold ;
+}
+
+#footer {
+    background-color:rgb(1, 22, 67) ;
+    color: white;
+    padding-left: 3rem;
+    padding-right:0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+    font-size: 11px;
+}
+
+#photo {
+    opacity: 0.4;
+}
+.carousel-inner {
+    background-color: black;
+}
+#tituloform {
+font-family: 'Shadows Into Light', cursive;
+font-size: 3rem;
